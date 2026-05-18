@@ -9,7 +9,6 @@
     "stack": [
         ".net",
         "csharp",
-        "nginx",
-        "docker"
+        "nginx"
     ]
 }
