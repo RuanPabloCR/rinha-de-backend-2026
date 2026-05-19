@@ -1,14 +1,6 @@
-{
-    "participants": [
-        "Ruan Pablo"
-    ],
-    "social": [
-        "https://github.com/RuanPabloCR"
-    ],
-    "source-code-repo": "https://github.com/RuanPabloCR/rinha-de-backend2026",
-    "stack": [
-        ".net",
-        "csharp",
-        "nginx"
-    ]
-}
+[
+    {
+        "id": "RuanPabloCR",
+        "repo": "https://github.com/RuanPabloCR/rinha-de-backend2026"
+    }
+]
